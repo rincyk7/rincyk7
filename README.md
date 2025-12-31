@@ -1,43 +1,38 @@
 ## Hi there 👋
 
-👩‍💻 I'm Rincy Kuriakose— a quality-obsessed QA Engineer with 5+ years of breaking things (so users don’t have to) through manual and automation testing.
+👩‍💻 I'm **Rincy Kuriakose** — an **ISTQB® Certified QA Engineer** with **5+ years of experience** in manual and automation testing, focused on delivering reliable, high-quality software.
 
-🔧 I wield modern testing tools like Selenium like a pro, and I’m currently diving deep into the exciting world of AI in testing — because the future of QA isn't just automated, it's intelligent. 🤖✨
+I work extensively with **Selenium-based automation**, functional and regression testing, and I’m actively expanding into **AI-assisted testing approaches** to improve test coverage, stability, and efficiency.
 
-Always curious, always evolving — I believe testing isn’t just a job, it’s an ever-evolving adventure in precision, innovation, and staying one step ahead of bugs!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📚 Currently Learning
-Exploring AI-powered testing tools like Testim, Katalon TestOps, Applitools
-Building scalable test automation frameworks
-Using machine learning models to identify flaky tests and optimize test coverage
-Experimenting with GPT-based test case generation and natural language to code tools to accelerate QA workflows
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 My Projects
-Here are some of my featured repositories:
+I treat QA as an **engineering responsibility**, not a checkbox activity — clarity, accuracy, and maintainability always come first.
 
-🔹 A demo project with Cucumber Framework using Selenium
+## 📚 Currently Learning
+- AI-powered testing tools (Testim, Katalon TestOps, Applitools)
+- Building scalable test automation frameworks
+- Identifying flaky tests and improving test stability
+- Using GPT-based tools for test case generation
 
-✍️ Ongoing Projects
-🔹 E2E Mocha test automation framework using Cypress
-🔹 E2E test automation Framework using Playwright
-(📌 Stay tuned — More projects coming soon!)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🛠 Tools & Technologies
-Automation:
-Selenium 
+## 🚀 My Projects
 
-Languages:
-Java JavaScript, Python
+### Featured
+- **Cucumber Automation Framework (Selenium)**  
+  BDD-based test automation demo project
 
-API Testing:
-Postman RestAssured
+### Ongoing
+- **Cypress E2E Framework** (Mocha)
+- **Playwright E2E Framework**
 
-CI/CD & Version Control:
-Jenkins GitHub Actions
+📌 *More projects coming soon*
 
-Testing Frameworks:
-JUnit Mocha TestNG
+## 🛠 Tools & Technologies
 
-🤝 Let’s Connect!
-💼 Linkedin
-📬 Email: rincykrkz95@gmail.com
+**Automation:** Selenium, Cypress, Playwright  
+**Languages:** Java, JavaScript, Python  
+**API Testing:** Postman, RestAssured  
+**CI/CD & Version Control:** Jenkins, GitHub Actions  
+**Testing Frameworks:** JUnit, TestNG  
+**Performance Testing:** JMeter
+
+## 🤝 Let’s Connect!
+- 💼 LinkedIn: (https://www.linkedin.com/in/rincy-kuriakose-b1063013a/)
+- 📬 Email: [rincykrkz95@gmail.com](mailto:rincykrkz95@gmail.com)
