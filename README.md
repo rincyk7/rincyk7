@@ -34,5 +34,5 @@ I treat QA as an **engineering responsibility**, not a checkbox activity — cla
 **Performance Testing:** JMeter
 
 ## 🤝 Let’s Connect!
-- 💼 LinkedIn: [LinkedIn:](https://www.linkedin.com/in/rincy-kuriakose-b1063013a/)
+- 💼  [LinkedIn:](https://www.linkedin.com/in/rincy-kuriakose-b1063013a/)
 - 📬 Email: [rincykrkz95@gmail.com](mailto:rincykrkz95@gmail.com)
